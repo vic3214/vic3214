@@ -2,5 +2,5 @@
 - 👀 Estoy interesado en el desarrollo web
 - 🌱 Ahora me encuentro aprendiendo SpringBoot
 - 🧑‍🏫 Tengo experiencia trabajando en Angular, Java, .NET y SQL
-- 👨‍🎓 De forma autodidácta tengo proyectos en los que he utilizado NodeJs, Python, MongoDB y Supabase
+- 👨‍🎓 De forma autodidacta tengo proyectos en los que he utilizado NodeJs, Python, MongoDB y Supabase
 - 📫 Contacto: victorhornachos@gmail.com
