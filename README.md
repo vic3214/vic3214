@@ -1,4 +1,6 @@
 - 👋 Hola, soy @vic3214
 - 👀 Estoy interesado en el desarrollo web
-- 🌱 Ahora me encuentro aprendiendo Angular, React.js y Java
+- 🌱 Ahora me encuentro aprendiendo SpringBoot
+- 🧑‍🏫 Tengo experiencia trabajando en Angular, Java, .NET y SQL
+- 👨‍🎓 De forma autodidácta tengo proyectos en los que he utilizado NodeJs, Python, MongoDB y Supabase
 - 📫 Contacto: victorhornachos@gmail.com
